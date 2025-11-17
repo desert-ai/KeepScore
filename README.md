@@ -4,6 +4,7 @@ KeepScore ![project unmaintained](https://img.shields.io/badge/project-unmaintai
 Author
 --------
 Nolan Lawson
+
 Updated and maintained by Kyle Tappendorf
 
 License
